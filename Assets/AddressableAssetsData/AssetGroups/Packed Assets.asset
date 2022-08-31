@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1c46e274734d00d44aec43e25c1a2a2f
+  m_SerializeEntries:
+  - m_GUID: aaeb4d7b266884c42870cdec2616dda2
+    m_Address: Asteroidan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a4307e1922f98e4a9a4ff62f5a63df4
+    m_Address: Mercurian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4539a2c23247eaa4ca3d5c17cad57ed4
+    m_Address: Subterran
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ceefad3203b2fde4d93b6e7adea2e29e
+    m_Address: Terran
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b786e0712da7304799adb2a4a949463
+    m_Address: Superterran
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e871b94190b57b499fb9bc250edbdbd
+    m_Address: Neptunian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99c8a035fdbfe7547a5047835fc6ead5
+    m_Address: Jovian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e657398993a591e46ba66d5034a37b7b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9b969dd6b762b824ca51869d66ab9134, type: 2}
+    - {fileID: 11400000, guid: 884615abba0302849bfbb965418a2529, type: 2}

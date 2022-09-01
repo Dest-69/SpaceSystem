@@ -3,7 +3,7 @@ using UnityEngine;
 public class SimulationManager : MonoBehaviour
 {
     [SerializeField] private PlanetarySystemViewManager planetarySystemViewManager;
-    [SerializeField] [Range(0f, 10f)] private float SimulationSpeed = 1f;
+    [Range(0f, 10f)] public float SimulationSpeed = 1f;
     
     private IPlaneterySystem PlaneterySystem;
     private async void Awake()
